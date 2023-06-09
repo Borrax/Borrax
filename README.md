@@ -18,9 +18,8 @@
 
 <pre>
 <h3 align="center">Prelude:</h3>
-
-        /\      Nice to meet yuo all. In Greek mythology Orpheus persuades Charon, the ferryman of the underworld, to transport
-      _(  )_    him across the river Styx by using his exceptional musical talent. I don't claim at all my code is anywhere near
-     ( `==' )   to that of a virtuosic melody but I hope it doesn't seem like a cacaphony in your head while you are reading it.
-       '\/`     As of now my work here is a lonelytune which I am thriving to enrich with more harmonics and melodies.
+    /\      Nice to meet yuo all. In Greek mythology Orpheus persuades Charon, the ferryman of the underworld, to transport
+  _(  )_    him across the river Styx by using his exceptional musical talent. I don't claim at all my code is anywhere near
+ ( `==' )   to that of a virtuosic melody but I hope it doesn't seem like a cacaphony in your head while you are reading it.
+   '\/`     As of now my work here is a lonelytune which I am thriving to enrich with more harmonics and melodies.
 </pre>
