@@ -20,7 +20,7 @@
 <h3 align="center">Prelude:</h3>
     /\      Nice to meet yuo all. In Greek mythology Orpheus persuades Charon, the ferryman of the underworld, to
   _(  )_    transport him across the river Styx by using his exceptional musical talent. I don't claim at all my
- ( `==' )   code is anywhere near to that of a virtuosic melody but I hope it doesn't seem like a cacaphony in
-   '\/`     your head while you are reading it. As of now my work here is a lonelytune which I am thriving to
-            enrich with more harmonics and melodies. Below I will share more of me however talk is cheap...
+ ( `==' )   code is anywhere near to that of a virtuosic melody but I might be comparing you to Charon himself. x)
+   '\/`     As of now my work here is a lonely tune which I am thriving to enrich with more harmonics and melodies
+            in hopes it won't turn into a cacophony. Below I will share more about me however talk is cheap...
 </pre>
