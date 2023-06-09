@@ -15,12 +15,33 @@
 /___|___/_/_/_/\__/ /_/\_\/_/_//_/\_,_/  \___/_/  / .__/_/  \___/\_, /_/  \_,_/_/_/_/_/_/_/\__/_/   
                                                  /_/            /___/                               
 </pre>
-
-<pre>
 <h3 align="center">Prelude:</h3>
+<pre>
     /\      Nice to meet yuo all. In Greek mythology Orpheus persuades Charon, the ferryman of the underworld, to
   _(  )_    transport him across the river Styx by using his exceptional musical talent. I don't claim at all my
  ( `==' )   code is anywhere near to that of a virtuosic melody but I might be comparing you to Charon himself. x)
    '\/`     As of now my work here is a lonely tune which I am thriving to enrich with more harmonics and melodies
             in hopes it won't turn into a cacophony. Below I will share more about me however talk is cheap...
 </pre>
+
+<h3 align="center">About Me:</h3>
+► I am primarily involved in the web development world using technologies with JavaScript and TypeScript.</br>
+► I occasionaly make desktop apps using Electron.</br>
+► In my free time I look up a lot of aspects of the programming space, some of which fade away</br>
+with time and others stay.</br>
+► Doodling around with Rust as well for occasional compiler panics.</br>
+► Things that involve mysteries are always appealing to me. 
+
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDb" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+</div>
