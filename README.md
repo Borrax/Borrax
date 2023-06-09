@@ -7,8 +7,6 @@
 |_______/ \_. ___/ |   |___\|   |___\|___|   | /___/ \___\
             :/     |___|    |___|        |___|            
             :                                              
-</pre>
-<pre align="center">
                        __    _         __       ___                                                 
   ______  __ _  ___   / /__ (_)__  ___/ / ___  / _/ ___  _______  ___ ________ ___ _  __ _  ___ ____
  (_-< _ \/  ' \/ -_) /  '_// / _ \/ _  / / _ \/ _/ / _ \/ __/ _ \/ _ `/ __/ _ `/  ' \/  ' \/ -_) __/
@@ -25,13 +23,14 @@
 </pre>
 
 <h3 align="center">About Me:</h3>
-► I am primarily involved in the web development world using technologies with JavaScript and TypeScript.</br>
-► I occasionaly make desktop apps using Electron.</br>
-► In my free time I look up a lot of aspects of the programming space, some of which fade away</br>
-with time and others stay.</br>
-► Doodling around with Rust as well for occasional compiler panics.</br>
-► Things that involve mysteries are always appealing to me. 
-
+<pre>
+    ^       ► I am primarily involved in the web development world using technologies with JavaScript and TypeScript.
+ _(   )_    ► I occasionaly make desktop apps using Electron.
+( `\ /' )   ► In my free time I look up a lot of aspects of the programming space, some of which fade away
+  _)^(_     with time and others stay.
+    V       ► Doodling around with Rust as well for occasional compiler panics.
+            ► Things that involve mysteries are always appealing to me. 
+</pre>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -44,4 +43,13 @@ with time and others stay.</br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+</div>
+</br>
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borrax&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+            
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Borrax&theme=dark&background=000000)](https://git.io/streak-stats)
+
 </div>
