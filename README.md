@@ -4,8 +4,8 @@
 : __   / : .___  \ : __   \ : __   \ :      \  \   \_/   /
 |  |>  \ | :   |  ||  \____||  \____||   .   |  \___ ___/ 
 |  |>   \|     :  ||   :  \ |   :  \ |   :   |  /   _   \ 
-|_______/ \_. ___/ |   |___\|   |___\|___|   | /___/ \___\
-            :/     |___|    |___|        |___|            
+|_______/ \_. ___/ |___|___\|___|___\|___|   | /___/ \___\
+            :/                           |___|            
             :                                              
                        __    _         __       ___                                                 
   ______  __ _  ___   / /__ (_)__  ___/ / ___  / _/ ___  _______  ___ ________ ___ _  __ _  ___ ____
@@ -15,7 +15,7 @@
 </pre>
 <h3 align="center">Prelude:</h3>
 <pre>
-    /\      Nice to meet yuo all. In Greek mythology Orpheus persuades Charon, the ferryman of the underworld, to
+    /\      Hello observer. In Greek mythology Orpheus persuades Charon, the ferryman of the underworld, to
   _(  )_    transport him across the river Styx by using his exceptional musical talent. I don't claim at all my
  ( `==' )   code is anywhere near to that of a virtuosic melody but I might be comparing you to Charon himself. x)
    '\/`     As of now my work here is a lonely tune which I am thriving to enrich with more harmonics and melodies
@@ -24,7 +24,8 @@
 
 <h3 align="center">About Me:</h3>
 <pre>
-    ^       ► I am primarily involved in the web development world using technologies with JavaScript and TypeScript.
+            ► I am primarily involved in the web development world using technologies with JavaScript
+    ^       and TypeScript.
  _(   )_    ► I occasionaly make desktop apps using Electron.
 ( `\ /' )   ► In my free time I look up a lot of aspects of the programming space, some of which fade away
   _)^(_     with time and others stay.
