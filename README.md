@@ -52,4 +52,5 @@ Exploration is my creed and programming is my habitat
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borrax&theme=radical&layout=compact)](https://github.com/yeazin)
   </td>
+  </tr>
 </table>
