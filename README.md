@@ -44,13 +44,19 @@ Exploration is my creed and programming is my habitat
   <td>
   
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=borrax&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=borrax&theme=dark&background=000000)
 
   </td>
   <td>
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borrax&theme=radical&layout=compact)](https://github.com/yeazin)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   </td>
   </tr>
 </table>
